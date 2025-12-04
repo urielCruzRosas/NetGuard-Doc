@@ -1,9 +1,9 @@
 # 🚀 NetGuard Pro  
+![alt text](/resources/logoNS.png)
 
 ## ✔ Gracias por confiar en NetGuard Pro  
 **Una red más rápida. Un negocio más seguro. Un crecimiento sin límites.**
 
-![alt text](/resources/logoNS.png)
 
 **Optimiza. Protege. Escala.**  
 El software que mantiene tu red rápida, segura y lista para crecer.
